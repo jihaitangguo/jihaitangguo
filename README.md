@@ -5,6 +5,3 @@
 此号的用户名jihaitangguo即为“姬海棠果”的拼音。
 
 此号也是[玄晖Allen](https://allen-sunboy.github.io)的一个小号，在github的用户名是[Allen-Sunboy](https://github.com/Allen-Sunboy)。
-
-邮箱：jihaitangguo@163.com
-
