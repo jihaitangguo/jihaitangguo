@@ -10,6 +10,6 @@
 [![Static Badge](https://img.shields.io/badge/Allen--Sunboy-black?logo=github)](https://github.com/Allen-Sunboy)
 [![Static Badge](https://img.shields.io/badge/blog-black?logo=hexo)](https://allen-sunboy.github.io/)
 
-头像使用插画ID：[17230853](https://www.pixiv.net/artworks/17230853)
+头像作者：[ideolo](https://www.pixiv.net/users/61513)
 
-![姬海棠果](17230853_p0.png)
+插画ID：[17230853](https://www.pixiv.net/artworks/17230853)
