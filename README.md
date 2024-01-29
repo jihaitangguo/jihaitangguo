@@ -12,7 +12,7 @@
 
 插画ID：[17230853](https://www.pixiv.net/artworks/17230853)
 
-## 大号
+大号：[Allen-Sunboy](https://github.com/Allen-Sunboy)
 
 [![Static Badge](https://img.shields.io/badge/GitHub-Allen--Sunboy-blue?logo=github)](https://github.com/Allen-Sunboy)
 [![Static Badge](https://img.shields.io/badge/hexo-blog-blue?logo=hexo)](https://allen-sunboy.github.io/)
