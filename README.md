@@ -1,8 +1,5 @@
 # 姬海棠果
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/jihaitangguo/jihaitangguo?logo=github)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jihaitangguo/jihaitangguo/main?logo=github)
-
 [![Static Badge](https://img.shields.io/badge/GitHub-jihaitangguo-blue?logo=github)](https://github.com/jihaitangguo)
 [![Static Badge](https://img.shields.io/badge/hexo-blog-blue?logo=hexo)](https://jihaitangguo.github.io/)
 
