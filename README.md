@@ -9,7 +9,7 @@
 
 插画ID：[17230853](https://www.pixiv.net/artworks/17230853)
 
-大号：[Allen-Sunboy](https://github.com/Allen-Sunboy)
+大号：[sunboyallen](https://github.com/sunboyallen)
 
-[![Static Badge](https://img.shields.io/badge/GitHub-Allen--Sunboy-181717?logo=github)](https://github.com/Allen-Sunboy)
-[![Static Badge](https://img.shields.io/badge/hexo-blog-0E83CD?logo=hexo)](https://allen-sunboy.github.io/)
+[![Static Badge](https://img.shields.io/badge/GitHub-sunboyallen-181717?logo=github)](https://github.com/sunboyallen)
+[![Static Badge](https://img.shields.io/badge/hexo-blog-0E83CD?logo=hexo)](https://sunboyallen.github.io/)
