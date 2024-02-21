@@ -14,4 +14,4 @@
 大号：[sunboyallen](https://github.com/sunboyallen)
 
 [![Static Badge](https://img.shields.io/badge/GitHub-sunboyallen-181717?logo=github)](https://github.com/sunboyallen)
-[![Static Badge](https://img.shields.io/badge/hexo-blog-0E83CD?logo=hexo)](https://sunboyallen.github.io/)
+[![Static Badge](https://img.shields.io/badge/Hexo-blog-0E83CD?logo=hexo)](https://sunboyallen.github.io/)
